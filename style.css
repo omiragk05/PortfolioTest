@@ -1,0 +1,74 @@
+.name{
+    color: black;
+}
+
+.namebox{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+table th{
+    text-align: center;
+    width: 20%;
+    background-color: aquamarine;
+    height: 30px;
+}
+
+table td{
+    text-align: center;
+    width: 20%;
+    height: 30px;
+}
+
+h2{
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: ghostwhite ;
+}
+
+.aboutbox, .skillsbox {
+    background-color: rgb(213, 239, 235);
+    margin: 20px;
+    border: 1px solid rgb(106, 183, 224);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.projectsbox {
+    background-color: rgb(213, 239, 235);
+    margin: 20px;
+    border: 1px solid rgb(106, 183, 224);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.contactbox {
+    background-color: rgb(213, 239, 235);
+    margin: 20px;
+    border: 1px solid rgb(106, 183, 224);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+
+footer {
+    background-color: aquamarine;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px solid aquamarine;
+}
+
+button{
+    background-color: aquamarine;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
